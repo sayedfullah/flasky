@@ -3,7 +3,7 @@
 
 ## Python virtual env
 -   python3 -m venv .venv
--   source .venv/bin/activate | deactiivate
+-   source .venv/bin/activate | deactivate
 -   pip install requests python-dotenv Flask waitress
 
 ## Requirements File
